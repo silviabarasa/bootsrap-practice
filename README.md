@@ -1,8 +1,8 @@
-# Portfolio Landing page
-#### Portfolio, 2019
+## Portfolio Landing Page, Bootstrap
+#### Bootsrap, 2019
 #### By Barasa Wakasa Silvia,2019
 ## Description
-It helps one to know how to come up with a portfolio landing page using codes and without having any difficulty in that by using the codes it makes it easier for one to easily create a webpage.One only has to type commands in the terminal,style with css, enter html codes, link it to github and github pages.
+It helps one to know how to come up with a portfolio landing page using bootsrap and without having any difficulty in that by using the codes it makes it easier for one to easily create a webpage.One only has to type commands in the terminal,style with css, enter html codes, link it to github and github pages.
 
 ## Setup/Installation Requirements
 To start using this project use the following commands:
@@ -15,6 +15,7 @@ HTML
 CSS
 bootsrap
 ## Link to live Website
+https://github.com/silviabarasa/bootsrap-practice.git
 https://github.com/silviabarasa/portfolio.git
 
 ## Support and contact details
